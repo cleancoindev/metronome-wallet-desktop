@@ -50,7 +50,7 @@
     "metronome-wallet-ui-logic": "3.5.2",
     "nedb": "1.8.0",
     "p-timeout": "4.1.0",
-    "patch-package": "5.1.1",
+    "patch-package": "6.2.1",
     "qrcode.react": "0.7.2",
     "raven": "2.6.4",
     "raven-js": "3.27.0",
